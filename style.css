@@ -1,0 +1,106 @@
+.container{
+    justify-content: center;
+    margin: 50px;
+    background-color: rgb(190,187,187);
+    position: relative;
+    left: 10%;
+    bottom: 10%;
+    border: solid;
+}
+.colour{
+    color: white;
+    border: solid;
+    background-color: black;
+    text-align: center;
+    height: 100px;
+    width: 61%;
+
+}
+.rb{
+    color: black;
+    border: solid;
+    background-image: linear-gradient(to right, red, blue);
+    text-align: center;
+    height: 258px;
+    width: 196px;
+    position: absolute;
+    top: 180px;
+    right: 1325px;
+}
+.coc{
+    color: white;
+    border: solid;
+    background-color: grey;
+    text-align: center;
+    height: 100px;
+    width: 80px;
+    position: relative;
+    bottom: 50px;
+    width: 61%
+   
+}
+.r{
+    color: white;
+    border: solid;
+    border-color: white;
+    background-color: red;
+    text-align: center;
+    height: 30px;
+    width: 110px;
+    padding: 50px;
+    position: absolute;
+    right: 1112px;
+    top: 178px;
+}
+   
+.bl{
+    color: white;
+    border: solid;
+    background-color: blue;
+    text-align: center;
+    height: 30px;
+    width: 110px;
+    padding: 50px;
+    position: absolute;
+    right: 1112px;
+    top: 310px;
+   
+}
+.rg{
+    color: black;
+    border: solid;
+    background-image: linear-gradient(to right, red, green);
+    text-align: center;
+    height: 28px;
+    width: 104px;
+    padding: 50px;
+    position: absolute;
+    right: 903px;
+    top: 180px;
+
+}  
+.bg{
+    color: black;
+    border: solid;
+    background-image: linear-gradient(to right, blue, green);
+    text-align: center;
+    height: 28px;
+    width: 104px;
+    padding: 50px;
+    position: absolute;
+    right: 903px;
+    top: 310px;
+}   
+.g{
+    color: white;
+    border: solid;
+    background-color: green;
+    text-align: center;
+    height: 165px;
+    width: 203px;
+    padding: 50px;
+    position: absolute;
+    right: 597px;
+    top: 176px;
+   
+}
